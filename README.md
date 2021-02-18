@@ -21,7 +21,8 @@
  - ![Project available on my repo](https://drive.google.com/file/d/1bIvYd5RxGRdJMzyIQglHtqiPAr7_n3My/view?usp=sharing)
  - ![Project available on my repo](https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
  - ![Project available on my repo](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
- 
+  figure:: https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing
+   :alt: alias of image
 - 😄 Pronouns:  He,Him ...
 - ⚡ Fun fact: ...
 
