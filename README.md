@@ -23,4 +23,5 @@
  - [Project available on my repo](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
 - 😄 Pronouns:  He,Him ...
 - ⚡ Fun fact: ...
--->
+
+https://github-profile-trophy.vercel.app/?username=HipsterSantos&rank=S&theme=nord
