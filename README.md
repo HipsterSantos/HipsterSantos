@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HipsterSantos&count_private=true&show_icons=true&theme=algolia )
 - 🔭 Fullstack developer ...🌱 Machine Learnd ...👯 collaborate on Automation projects idea ...
+- - 😄 Pronouns:  He,Him ...
+- ⚡ Fun fact: ...
 - 🤔  ...💬 ...
 ## 📫 How to reach me: 
     
@@ -11,18 +13,12 @@
 
 ## Project I've been working on(Take a look)
     # Website: 
-     https://kulong-e-learn.vercel.app
+   -  https://kulong-e-learn.vercel.app
     # Dashboard: 
-    https://kulong-e-learn.vercel.app/dashboard
+   - https://kulong-e-learn.vercel.app/dashboard
     # Login:
-    https://kulong-e-learn.vercel.app/login
- - [Template done on XD,Project available on my repo](https://drive.google.com/file/d/1PJhKQSLvFPTbtAg9ru-3Pr2GqSV1EC89/view?usp=sharing)
- - [Template done on XD](https://drive.google.com/file/d/1OYeid3ha-V4yuF2da0-2fcykPLXh3W07/view?usp=sharing)
- - [Project available on my repo](https://drive.google.com/file/d/1bIvYd5RxGRdJMzyIQglHtqiPAr7_n3My/view?usp=sharing)
- - [Project available on my repo](https://drive.google.com/file/d/1kVvL79Yp_HEeJEcAV9iHKp-TfmxZjp0z/view?usp=sharing)
- - [Project available on my repo](https://drive.google.com/file/d/1WjRvQDnXsTSkanCpUuMZwPWL53zxghZl/view?usp=sharing)
+   - https://kulong-e-learn.vercel.app/login
   
-- 😄 Pronouns:  He,Him ...
-- ⚡ Fun fact: ...
+
 
 
