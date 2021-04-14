@@ -5,7 +5,7 @@
 - 🌱 Machine Learnd ...
 - 👯 open to collaborate on Automation projects idea ...
 
-![Profile views](https://camo.githubusercontent.com/)
+
 ## 📫 How to reach me: 
     
 - https://www.linkedin.com/in/santos-ferreira-679b7918a
