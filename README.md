@@ -1,3 +1,7 @@
+<p align="center" style="width:100%!important;height:288px!important;">
+  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/now.png" alt="Cover Image"         height="288px" width="100%">
+</p>
+
 # ![Cover Image](https://github.com/HipsterSantos/HipsterSantos/blob/main/now.png)
 
 # Welcome to My GitHub Profile! 👋
