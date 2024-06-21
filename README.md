@@ -1,4 +1,4 @@
-# ![Cover Image](https://github.com/HipsterSantos/HipsterSantos/blob/main/cover.jpg)
+# ![Cover Image](https://github.com/HipsterSantos/HipsterSantos/blob/main/now.png)
 
 # Welcome to My GitHub Profile! 👋
 
