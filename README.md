@@ -32,6 +32,8 @@ I'm a passionate Fullstack Developer and Machine Learning enthusiast dedicated t
 ## ☕ Support Me
 If you like my work and want to support me, you can:
 - Buy me a coffee by scanning the QR code below:
+- [Buy  me a coffee]: (https://buymeacoffee.com/santoscampj)
+
   ![Buy me a coffee](https://github.com/HipsterSantos/HipsterSantos/blob/main/bmc_qr.png)
 - Become a patron on [Patreon](https://patreon.com/devhipster)
 
