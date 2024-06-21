@@ -6,17 +6,17 @@
 
 <script>
   const images = [
-    "https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-1.png",
-    "https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-2.png",
-    "https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-3.png"
+    "https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-1.jpg",
+    "https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-2.jpg",
+    "https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-3.jpg"
   ];
 
   let currentIndex = 0;
-  const coverImage = document.getElementById("cover-image");
+  const coverImage = document.getElementById("cover-image").getElementsByTagName("img")[0]; // Get the img element inside cover-image
 
   function changeCoverImage() {
     currentIndex = (currentIndex + 1) % images.length;
-    coverImage.innerHTML = `<img src="${images[currentIndex]}" alt="Cover Image" height="inherit" width="inherit" style="object-fit: cover;" >`;
+    coverImage.src = images[currentIndex]; // Update the src attribute of the img element
   }
 
   setInterval(changeCoverImage, 3000); // Change image every 3 seconds
