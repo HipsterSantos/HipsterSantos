@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p style="width:100% !important; height:300px !important; overflow:hidden;" id="cover-image">
-  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/cover1.png" alt="Cover Image" height="inherit" width="inherit" style="object-fit: cover;">
+  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-1.png" alt="Cover Image" height="inherit" width="inherit" style="object-fit: cover;">
 </p>
 
 <script>
@@ -16,7 +16,7 @@
 
   function changeCoverImage() {
     currentIndex = (currentIndex + 1) % images.length;
-    coverImage.innerHTML = `<img src="${images[currentIndex]}" alt="Cover Image" height="300px" width="100%">`;
+    coverImage.innerHTML = `<img src="${images[currentIndex]}" alt="Cover Image" height="inherit" width="inherit" style="object-fit: cover;" >`;
   }
 
   setInterval(changeCoverImage, 3000); // Change image every 3 seconds
