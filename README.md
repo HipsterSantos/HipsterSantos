@@ -4,8 +4,9 @@
   <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-3.jpg" alt="Cover Image" height="200px" width="100%" style="object-fit: fill !important;">
 </p>
 
-
+<h3>
 I'm a passionate Fullstack Developer and Machine Learning enthusiast dedicated to creating impactful open-source projects. I'm always open to collaboration, especially on innovative automation projects.
+</h3>
 
 ![Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HipsterSantos&count_private=true&show_icons=true&theme=algolia)
 
