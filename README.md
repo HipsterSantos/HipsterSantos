@@ -1,4 +1,3 @@
-Sure! Here’s the updated version of your `README.md` file including your Patreon link:
 
 ```markdown
 # Welcome to My GitHub Profile! 👋
@@ -38,5 +37,3 @@ If you like my work and want to support me, you can:
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration opportunities!
 ```
-
-This version now includes a link to your Patreon page, along with all the previous enhancements.
