@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p style="width:100% !important; height:300px !important; overflow:hidden;" id="cover-image">
-  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-1.jpg" alt="Cover Image" height="200px" width="100%" style="object-fit: cover;">
+  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/cover-1.jpg" alt="Cover Image" height="200px" width="100%" style="object-fit: contain;">
 </p>
 
 
