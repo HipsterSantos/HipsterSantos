@@ -1,5 +1,5 @@
 
-```markdown
+
 # Welcome to My GitHub Profile! 👋
 
 ![Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HipsterSantos&count_private=true&show_icons=true&theme=algolia)
@@ -36,4 +36,4 @@ If you like my work and want to support me, you can:
 - Become a patron on [Patreon](https://patreon.com/devhipster)
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration opportunities!
-```
+
