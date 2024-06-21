@@ -1,6 +1,4 @@
-Sure! Here’s the updated version of your `README.md` file including your Patreon link:
-
-```markdown
+# ![Cover Image](https://github.com/HipsterSantos/HipsterSantos/blob/main/cover.jpg)
 # Welcome to My GitHub Profile! 👋
 
 ![Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HipsterSantos&count_private=true&show_icons=true&theme=algolia)
@@ -37,6 +35,3 @@ If you like my work and want to support me, you can:
 - Become a patron on [Patreon](https://patreon.com/devhipster)
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration opportunities!
-```
-
-This version now includes a link to your Patreon page, along with all the previous enhancements.
