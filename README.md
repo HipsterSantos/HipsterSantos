@@ -1,13 +1,13 @@
+# Welcome to My GitHub Profile! 👋
+
 <p align="center" style="width:100%!important;height:auto !important;">
   <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/now.png" alt="Cover Image"         height="188px" width="245px">
 </p>
 
-
-# Welcome to My GitHub Profile! 👋
+I'm a passionate Fullstack Developer and Machine Learning enthusiast dedicated to creating impactful open-source projects. I'm always open to collaboration, especially on innovative automation projects.
 
 ![Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HipsterSantos&count_private=true&show_icons=true&theme=algolia)
 
-I'm a passionate Fullstack Developer and Machine Learning enthusiast dedicated to creating impactful open-source projects. I'm always open to collaboration, especially on innovative automation projects.
 
 ### 🚀 Open-Source Skills & Projects
 
