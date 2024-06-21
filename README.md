@@ -1,5 +1,5 @@
 <p align="center" style="width:100%!important;height:auto !important;">
-  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/now.png" alt="Cover Image"         height="188px" width="245%">
+  <img src="https://github.com/HipsterSantos/HipsterSantos/blob/main/now.png" alt="Cover Image"         height="188px" width="245px">
 </p>
 
 
